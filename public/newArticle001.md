@@ -1,13 +1,13 @@
 ---
-title: newArticle001 # 記事のタイトル
+title: newArticle001
 tags:
-  - "Test" # タグ（ブロックスタイルで複数タグを追加できます）
-private: false # true: 限定共有記事 / false: 公開記事
-updated_at: "" # 記事を投稿した際に自動的に記事の更新日時に変わります
-id: null # 記事を投稿した際に自動的に記事のUUIDに変わります
-organization_url_name: null # 関連付けるOrganizationのURL名
-slide: false # true: スライドモードON / false: スライドモードOFF
-ignorePublish: false # true: `publish`コマンドにおいて無視されます（Qiitaに投稿されません） / false: `publish`コマンドで処理されます（Qiitaに投稿されます）
+  - テスト
+private: false
+updated_at: '2026-06-24T20:42:25+09:00'
+id: 56d55e7cc1b3e146222d
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 # new article body
 
